@@ -1,0 +1,36 @@
+.header{
+    position: fixed;
+    width: 100vw;
+    height: 10vh;
+    background-color: rgba(0, 0, 0, 0.095);
+    color: aliceblue;
+    display: flex;
+    justify-content: space-between;
+    padding-inline: 1rem;
+    align-items: center;
+  }
+  .headerLogo{
+    object-fit: contain;
+    height: 5vh;
+ 
+  }
+.headerLft{
+    display: flex;
+    justify-content: center;
+}
+.headerRit{
+    display: flex;
+   gap: 1rem;
+   height: 2rem;
+   align-items: center;
+}
+.headerLftTxt{
+    background-color: aliceblue;
+    border-radius: 15px;
+    color: black;
+    padding-inline: 0.5rem;
+    padding-block: 0.3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

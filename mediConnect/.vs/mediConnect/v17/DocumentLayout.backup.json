@@ -1,0 +1,248 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\akash\\OneDrive\\Desktop\\Medi_connect\\mediConnect\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F566D200-91BD-4AFB-A377-02A3419807A5}|mediConnect\\mediConnect.csproj|c:\\users\\akash\\onedrive\\desktop\\medi_connect\\mediconnect\\mediconnect\\models\\availabilitytemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F566D200-91BD-4AFB-A377-02A3419807A5}|mediConnect\\mediConnect.csproj|solutionrelative:mediconnect\\models\\availabilitytemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F566D200-91BD-4AFB-A377-02A3419807A5}|mediConnect\\mediConnect.csproj|c:\\users\\akash\\onedrive\\desktop\\medi_connect\\mediconnect\\mediconnect\\models\\healthcarecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F566D200-91BD-4AFB-A377-02A3419807A5}|mediConnect\\mediConnect.csproj|solutionrelative:mediconnect\\models\\healthcarecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F566D200-91BD-4AFB-A377-02A3419807A5}|mediConnect\\mediConnect.csproj|c:\\users\\akash\\onedrive\\desktop\\medi_connect\\mediconnect\\mediconnect\\models\\availabilityschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F566D200-91BD-4AFB-A377-02A3419807A5}|mediConnect\\mediConnect.csproj|solutionrelative:mediconnect\\models\\availabilityschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F566D200-91BD-4AFB-A377-02A3419807A5}|mediConnect\\mediConnect.csproj|c:\\users\\akash\\onedrive\\desktop\\medi_connect\\mediconnect\\mediconnect\\controllers\\api\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F566D200-91BD-4AFB-A377-02A3419807A5}|mediConnect\\mediConnect.csproj|solutionrelative:mediconnect\\controllers\\api\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F566D200-91BD-4AFB-A377-02A3419807A5}|mediConnect\\mediConnect.csproj|c:\\users\\akash\\onedrive\\desktop\\medi_connect\\mediconnect\\mediconnect\\controllers\\api\\getslotcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F566D200-91BD-4AFB-A377-02A3419807A5}|mediConnect\\mediConnect.csproj|solutionrelative:mediconnect\\controllers\\api\\getslotcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F566D200-91BD-4AFB-A377-02A3419807A5}|mediConnect\\mediConnect.csproj|c:\\users\\akash\\onedrive\\desktop\\medi_connect\\mediconnect\\mediconnect\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F566D200-91BD-4AFB-A377-02A3419807A5}|mediConnect\\mediConnect.csproj|solutionrelative:mediconnect\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F566D200-91BD-4AFB-A377-02A3419807A5}|mediConnect\\mediConnect.csproj|c:\\users\\akash\\onedrive\\desktop\\medi_connect\\mediconnect\\mediconnect\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F566D200-91BD-4AFB-A377-02A3419807A5}|mediConnect\\mediConnect.csproj|solutionrelative:mediconnect\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F566D200-91BD-4AFB-A377-02A3419807A5}|mediConnect\\mediConnect.csproj|c:\\users\\akash\\onedrive\\desktop\\medi_connect\\mediconnect\\mediconnect\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F566D200-91BD-4AFB-A377-02A3419807A5}|mediConnect\\mediConnect.csproj|solutionrelative:mediconnect\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F566D200-91BD-4AFB-A377-02A3419807A5}|mediConnect\\mediConnect.csproj|c:\\users\\akash\\onedrive\\desktop\\medi_connect\\mediconnect\\mediconnect\\migrations\\20241102101957_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F566D200-91BD-4AFB-A377-02A3419807A5}|mediConnect\\mediConnect.csproj|solutionrelative:mediconnect\\migrations\\20241102101957_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F566D200-91BD-4AFB-A377-02A3419807A5}|mediConnect\\mediConnect.csproj|c:\\users\\akash\\onedrive\\desktop\\medi_connect\\mediconnect\\mediconnect\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F566D200-91BD-4AFB-A377-02A3419807A5}|mediConnect\\mediConnect.csproj|solutionrelative:mediconnect\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F566D200-91BD-4AFB-A377-02A3419807A5}|mediConnect\\mediConnect.csproj|c:\\users\\akash\\onedrive\\desktop\\medi_connect\\mediconnect\\mediconnect\\models\\hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F566D200-91BD-4AFB-A377-02A3419807A5}|mediConnect\\mediConnect.csproj|solutionrelative:mediconnect\\models\\hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F566D200-91BD-4AFB-A377-02A3419807A5}|mediConnect\\mediConnect.csproj|c:\\users\\akash\\onedrive\\desktop\\medi_connect\\mediconnect\\mediconnect\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F566D200-91BD-4AFB-A377-02A3419807A5}|mediConnect\\mediConnect.csproj|solutionrelative:mediconnect\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F566D200-91BD-4AFB-A377-02A3419807A5}|mediConnect\\mediConnect.csproj|c:\\users\\akash\\onedrive\\desktop\\medi_connect\\mediconnect\\mediconnect\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F566D200-91BD-4AFB-A377-02A3419807A5}|mediConnect\\mediConnect.csproj|solutionrelative:mediconnect\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F566D200-91BD-4AFB-A377-02A3419807A5}|mediConnect\\mediConnect.csproj|c:\\users\\akash\\onedrive\\desktop\\medi_connect\\mediconnect\\mediconnect\\models\\provider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F566D200-91BD-4AFB-A377-02A3419807A5}|mediConnect\\mediConnect.csproj|solutionrelative:mediconnect\\models\\provider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppointmentController.cs",
+              "DocumentMoniker": "C:\\Users\\akash\\OneDrive\\Desktop\\Medi_connect\\mediConnect\\mediConnect\\Controllers\\Api\\AppointmentController.cs",
+              "RelativeDocumentMoniker": "mediConnect\\Controllers\\Api\\AppointmentController.cs",
+              "ToolTip": "C:\\Users\\akash\\OneDrive\\Desktop\\Medi_connect\\mediConnect\\mediConnect\\Controllers\\Api\\AppointmentController.cs",
+              "RelativeToolTip": "mediConnect\\Controllers\\Api\\AppointmentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T14:24:25.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20241102101957_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\akash\\OneDrive\\Desktop\\Medi_connect\\mediConnect\\mediConnect\\Migrations\\20241102101957_InitialCreate.cs",
+              "RelativeDocumentMoniker": "mediConnect\\Migrations\\20241102101957_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\akash\\OneDrive\\Desktop\\Medi_connect\\mediConnect\\mediConnect\\Migrations\\20241102101957_InitialCreate.cs",
+              "RelativeToolTip": "mediConnect\\Migrations\\20241102101957_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T10:26:29.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HealthCareContext.cs",
+              "DocumentMoniker": "C:\\Users\\akash\\OneDrive\\Desktop\\Medi_connect\\mediConnect\\mediConnect\\Models\\HealthCareContext.cs",
+              "RelativeDocumentMoniker": "mediConnect\\Models\\HealthCareContext.cs",
+              "ToolTip": "C:\\Users\\akash\\OneDrive\\Desktop\\Medi_connect\\mediConnect\\mediConnect\\Models\\HealthCareContext.cs",
+              "RelativeToolTip": "mediConnect\\Models\\HealthCareContext.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAUwCYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T06:33:44.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\akash\\OneDrive\\Desktop\\Medi_connect\\mediConnect\\mediConnect\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "mediConnect\\Models\\Appointment.cs",
+              "ToolTip": "C:\\Users\\akash\\OneDrive\\Desktop\\Medi_connect\\mediConnect\\mediConnect\\Models\\Appointment.cs",
+              "RelativeToolTip": "mediConnect\\Models\\Appointment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T06:32:53.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AvailabilityTemplate.cs",
+              "DocumentMoniker": "C:\\Users\\akash\\OneDrive\\Desktop\\Medi_connect\\mediConnect\\mediConnect\\Models\\AvailabilityTemplate.cs",
+              "RelativeDocumentMoniker": "mediConnect\\Models\\AvailabilityTemplate.cs",
+              "ToolTip": "C:\\Users\\akash\\OneDrive\\Desktop\\Medi_connect\\mediConnect\\mediConnect\\Models\\AvailabilityTemplate.cs",
+              "RelativeToolTip": "mediConnect\\Models\\AvailabilityTemplate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T06:32:16.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AvailabilitySchedule.cs",
+              "DocumentMoniker": "C:\\Users\\akash\\OneDrive\\Desktop\\Medi_connect\\mediConnect\\mediConnect\\Models\\AvailabilitySchedule.cs",
+              "RelativeDocumentMoniker": "mediConnect\\Models\\AvailabilitySchedule.cs",
+              "ToolTip": "C:\\Users\\akash\\OneDrive\\Desktop\\Medi_connect\\mediConnect\\mediConnect\\Models\\AvailabilitySchedule.cs",
+              "RelativeToolTip": "mediConnect\\Models\\AvailabilitySchedule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T06:32:34.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetSlotController.cs",
+              "DocumentMoniker": "C:\\Users\\akash\\OneDrive\\Desktop\\Medi_connect\\mediConnect\\mediConnect\\Controllers\\Api\\GetSlotController.cs",
+              "RelativeDocumentMoniker": "mediConnect\\Controllers\\Api\\GetSlotController.cs",
+              "ToolTip": "C:\\Users\\akash\\OneDrive\\Desktop\\Medi_connect\\mediConnect\\mediConnect\\Controllers\\Api\\GetSlotController.cs",
+              "RelativeToolTip": "mediConnect\\Controllers\\Api\\GetSlotController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T14:07:07.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Hospital.cs",
+              "DocumentMoniker": "C:\\Users\\akash\\OneDrive\\Desktop\\Medi_connect\\mediConnect\\mediConnect\\Models\\Hospital.cs",
+              "RelativeDocumentMoniker": "mediConnect\\Models\\Hospital.cs",
+              "ToolTip": "C:\\Users\\akash\\OneDrive\\Desktop\\Medi_connect\\mediConnect\\mediConnect\\Models\\Hospital.cs",
+              "RelativeToolTip": "mediConnect\\Models\\Hospital.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T06:32:00.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\akash\\OneDrive\\Desktop\\Medi_connect\\mediConnect\\mediConnect\\Program.cs",
+              "RelativeDocumentMoniker": "mediConnect\\Program.cs",
+              "ToolTip": "C:\\Users\\akash\\OneDrive\\Desktop\\Medi_connect\\mediConnect\\mediConnect\\Program.cs",
+              "RelativeToolTip": "mediConnect\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T06:42:35.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\akash\\OneDrive\\Desktop\\Medi_connect\\mediConnect\\mediConnect\\appsettings.json",
+              "RelativeDocumentMoniker": "mediConnect\\appsettings.json",
+              "ToolTip": "C:\\Users\\akash\\OneDrive\\Desktop\\Medi_connect\\mediConnect\\mediConnect\\appsettings.json",
+              "RelativeToolTip": "mediConnect\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-02T10:27:02.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\akash\\OneDrive\\Desktop\\Medi_connect\\mediConnect\\mediConnect\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "mediConnect\\Models\\Admin.cs",
+              "ToolTip": "C:\\Users\\akash\\OneDrive\\Desktop\\Medi_connect\\mediConnect\\mediConnect\\Models\\Admin.cs",
+              "RelativeToolTip": "mediConnect\\Models\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T06:31:40.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Provider.cs",
+              "DocumentMoniker": "C:\\Users\\akash\\OneDrive\\Desktop\\Medi_connect\\mediConnect\\mediConnect\\Models\\Provider.cs",
+              "RelativeDocumentMoniker": "mediConnect\\Models\\Provider.cs",
+              "ToolTip": "C:\\Users\\akash\\OneDrive\\Desktop\\Medi_connect\\mediConnect\\mediConnect\\Models\\Provider.cs",
+              "RelativeToolTip": "mediConnect\\Models\\Provider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T06:31:10.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\akash\\OneDrive\\Desktop\\Medi_connect\\mediConnect\\mediConnect\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "mediConnect\\Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\akash\\OneDrive\\Desktop\\Medi_connect\\mediConnect\\mediConnect\\Models\\Patient.cs",
+              "RelativeToolTip": "mediConnect\\Models\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T06:27:20.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\akash\\OneDrive\\Desktop\\Medi_connect\\mediConnect\\mediConnect\\Models\\User.cs",
+              "RelativeDocumentMoniker": "mediConnect\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\akash\\OneDrive\\Desktop\\Medi_connect\\mediConnect\\mediConnect\\Models\\User.cs",
+              "RelativeToolTip": "mediConnect\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T06:24:58.916Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
